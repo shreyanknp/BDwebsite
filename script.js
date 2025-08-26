@@ -173,7 +173,7 @@ new TypeIt("#trims", {
   startDelay: 1200,
   speed: 200,
   //loop: false,
-  waitUntilVisible: true,
+  waitUntilVisible: true
 }).go();
 
 
