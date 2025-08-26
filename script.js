@@ -154,7 +154,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Roshiniiii", " ", "Turning 27 on 27 ! ! !", "I was never this excited for my own birthday.", "This is the first of many birthdays with you, which i cannot wait to celebrate.", "I consider this day very special!!", "Happy birthday to you!", "I hope all your wishes come true."],
+  strings: ["Roshiniiii", " ", "Turning 27 on 27 ! ! !", "I was never this excited for my own birthday.", "This is the first of many birthdays with you, which I cannot wait to celebrate.", "I consider this day very special!!", "Happy birthday to you!", "I hope all your wishes come true."],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
