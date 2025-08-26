@@ -161,7 +161,7 @@ new TypeIt("#teks1", {
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["May the things that bring you down also become reasons for you to continue growing.", "With or without me, may the universe always make you happy in whatever way necessary.", "May god bless you with love, happiness, inner peace and good health.", "Thank you for surviving this far.", " ", "- Your love (Shreyank)"],
+  strings: ["May the things that bring you down also become reasons for you to continue growing.", "With or without me, may the universe always make you happy in whatever way necessary.", "May god bless you with love, happiness, inner peace and good health.", "Thank you for surviving this far.", " ", "I love you sooo much :)"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
