@@ -153,14 +153,14 @@ const _slideEnam = function () {
 };
 
 
-new TypeIt("#text1", {
+new TypeIt("#teks1", {
   strings: ["First page", "Semoga hal-hal yang membuat kamu runtuh turut menjadi alasan kamu untuk tetap tumbuh.", "Semoga dunia senantiasa menjaga kamu dimanapun kamu berada.", "Semoga hari-hari kamu selalu diiringi cinta yang tak pernah ada batasnya." , "Semoga setiap langkahmu dimudahkan hingga tercapai apa yang kamu inginkan."],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
-new TypeIt("#text2", {
+new TypeIt("#teks2", {
   strings: ["Second page", " ", "barakallah fi umrik, terima kasih sudah bertahan sampai sejauh ini.", " ", "- Wish all you the best"],
   startDelay: 2000,
   speed: 75,
