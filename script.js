@@ -172,7 +172,7 @@ new TypeIt("#trims", {
   strings: ["I love you sooo much :)"],
   startDelay: 1200,
   speed: 150,
-  loop: false,
+  //loop: false,
   waitUntilVisible: true,
 }).go();
 
