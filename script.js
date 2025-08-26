@@ -154,14 +154,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Hello how are you, Hari ini, saya langitkan semua doa terbaik saya untuk kamu.", "Semoga hal-hal yang membuat kamu runtuh turut menjadi alasan kamu untuk tetap tumbuh.", "Semoga dunia senantiasa menjaga kamu dimanapun kamu berada.", "Semoga hari-hari kamu selalu diiringi cinta yang tak pernah ada batasnya." , "Semoga setiap langkahmu dimudahkan hingga tercapai apa yang kamu inginkan."],
+  strings: ["Roshiniiii I was never this excited for my own birthday.", "This is the first of many birthdays with you, which i cannot wait to celebrate.", "I consider this day very special."],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Dengan ataupun tanpaku, semoga semesta selalu membahagiakan kamu bagimanapun caranya.", " ", "barakallah fi umrik, terima kasih sudah bertahan sampai sejauh ini.", " ", "- Wish all you the best"],
+  strings: ["May the things that bring you down also become reasons for you to continue growing.", "With or without me, may the universe always make you happy in whatever way necessary.", "May god bless you with inner peace, love, happiness and good health.", "Thank you for surviving this far.", " ", "- Your love (Shreyank)"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -171,8 +171,8 @@ new TypeIt("#teks2", {
 new TypeIt("#trims", {
   strings: ["I love you sooo much :)"],
   startDelay: 1200,
-  speed: 40,
-  //loop: false,
+  speed: 55,
+  loop: true,
   waitUntilVisible: true
 }).go();
 
