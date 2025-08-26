@@ -155,7 +155,7 @@ const _slideEnam = function () {
 
 new TypeIt("#teks1", {
   strings: ["Hari ini, saya langitkan semua doa terbaik saya untuk kamu.", "Semoga hal-hal yang membuat kamu runtuh turut menjadi alasan kamu untuk tetap tumbuh.", "Semoga dunia senantiasa menjaga kamu dimanapun kamu berada.", "Semoga hari-hari kamu selalu diiringi cinta yang tak pernah ada batasnya." , "Semoga setiap langkahmu dimudahkan hingga tercapai apa yang kamu inginkan."],
-  startDelay: 4000,
+  startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
 }).go();
@@ -170,7 +170,7 @@ new TypeIt("#teks2", {
 
 new TypeIt("#trims", {
   strings: ["I love you sooo much :)"],
-  startDelay: 2000,
+  startDelay: 1800,
   speed: 150,
   loop: false,
   waitUntilVisible: true,
